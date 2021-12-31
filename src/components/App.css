@@ -1,1 +1,19 @@
 /* Styles go here */
+body {
+    background-color: rgb(245, 182, 10);
+}
+
+.card {
+    padding: 25px;
+    border-radius: 30px;
+    
+}
+
+.btn-primary {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+tr {
+    background-color: white;
+}
